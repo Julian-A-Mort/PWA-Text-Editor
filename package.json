@@ -2,11 +2,11 @@
   "name": "JATE",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "server/server.js",
   "scripts": {
-    "start:dev": "npm run start",
-    "start": "node server.js",
-    "server": "node server.js",
+    "start:dev": " ",
+    "start": "node server/server.js",
+    "server": "node server/server.js",
     "build": "webpack --mode production",
     "install": "",
     "client": ""
